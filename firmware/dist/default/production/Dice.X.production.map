@@ -1,0 +1,619 @@
+Archive member included to satisfy reference by file (symbol)
+
+/Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avrtiny/libgcc.a(_divmodhi4.o)
+                              build/default/production/main.o (__divmodhi4)
+/Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avrtiny/libgcc.a(_udivmodsi4.o)
+                              build/default/production/main.o (__udivmodsi4)
+/Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avrtiny/libgcc.a(_exit.o)
+                              /Users/plum/.mchp_packs/Microchip/ATtiny_DFP/3.0.151/xc8/avr/lib/avrtiny/crtattiny40.o (exit)
+/Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avrtiny/libgcc.a(_copy_data.o)
+                              build/default/production/main.o (__do_copy_data)
+/Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avrtiny/libgcc.a(_udivmodhi4.o)
+                              /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avrtiny/libgcc.a(_divmodhi4.o) (__udivmodhi4)
+/Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrtiny/libc.a(rand.o)
+                              build/default/production/main.o (rand)
+/Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avrtiny/libgcc.a(_mulsi3.o)
+                              /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrtiny/libc.a(rand.o) (__mulsi3)
+/Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avrtiny/libgcc.a(_divmodsi4.o)
+                              /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrtiny/libc.a(rand.o) (__divmodsi4)
+/Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avrtiny/libgcc.a(_negsi2.o)
+                              /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avrtiny/libgcc.a(_divmodsi4.o) (__negsi2)
+
+Discarded input sections
+
+ .data          0x0000000000000000        0x0 /Users/plum/.mchp_packs/Microchip/ATtiny_DFP/3.0.151/xc8/avr/lib/avrtiny/crtattiny40.o
+ .bss           0x0000000000000000        0x0 /Users/plum/.mchp_packs/Microchip/ATtiny_DFP/3.0.151/xc8/avr/lib/avrtiny/crtattiny40.o
+ .text          0x0000000000000000        0x0 build/default/production/main.o
+ .data          0x0000000000000000        0x0 build/default/production/main.o
+ .bss           0x0000000000000000        0x0 build/default/production/main.o
+ .text          0x0000000000000000        0x0 /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avrtiny/libgcc.a(_divmodhi4.o)
+ .data          0x0000000000000000        0x0 /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avrtiny/libgcc.a(_divmodhi4.o)
+ .bss           0x0000000000000000        0x0 /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avrtiny/libgcc.a(_divmodhi4.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avrtiny/libgcc.a(_divmodhi4.o)
+ .stack.descriptors
+                0x0000000000000000       0x19 /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avrtiny/libgcc.a(_divmodhi4.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avrtiny/libgcc.a(_divmodhi4.o)
+ .text.libgcc   0x0000000000000000        0x0 /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avrtiny/libgcc.a(_divmodhi4.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avrtiny/libgcc.a(_divmodhi4.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avrtiny/libgcc.a(_divmodhi4.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avrtiny/libgcc.a(_divmodhi4.o)
+ .text          0x0000000000000000        0x0 /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avrtiny/libgcc.a(_udivmodsi4.o)
+ .data          0x0000000000000000        0x0 /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avrtiny/libgcc.a(_udivmodsi4.o)
+ .bss           0x0000000000000000        0x0 /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avrtiny/libgcc.a(_udivmodsi4.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avrtiny/libgcc.a(_udivmodsi4.o)
+ .stack.descriptors
+                0x0000000000000000       0x1a /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avrtiny/libgcc.a(_udivmodsi4.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avrtiny/libgcc.a(_udivmodsi4.o)
+ .text.libgcc   0x0000000000000000        0x0 /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avrtiny/libgcc.a(_udivmodsi4.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avrtiny/libgcc.a(_udivmodsi4.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avrtiny/libgcc.a(_udivmodsi4.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avrtiny/libgcc.a(_udivmodsi4.o)
+ .text          0x0000000000000000        0x0 /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avrtiny/libgcc.a(_exit.o)
+ .data          0x0000000000000000        0x0 /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avrtiny/libgcc.a(_exit.o)
+ .bss           0x0000000000000000        0x0 /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avrtiny/libgcc.a(_exit.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avrtiny/libgcc.a(_exit.o)
+ .text.libgcc.div
+                0x0000000000000000        0x0 /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avrtiny/libgcc.a(_exit.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avrtiny/libgcc.a(_exit.o)
+ .stack.descriptors
+                0x0000000000000000       0x13 /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avrtiny/libgcc.a(_exit.o)
+ .text.libgcc   0x0000000000000000        0x0 /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avrtiny/libgcc.a(_exit.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avrtiny/libgcc.a(_exit.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avrtiny/libgcc.a(_exit.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avrtiny/libgcc.a(_exit.o)
+ .text          0x0000000000000000        0x0 /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avrtiny/libgcc.a(_copy_data.o)
+ .data          0x0000000000000000        0x0 /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avrtiny/libgcc.a(_copy_data.o)
+ .bss           0x0000000000000000        0x0 /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avrtiny/libgcc.a(_copy_data.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avrtiny/libgcc.a(_copy_data.o)
+ .text.libgcc.div
+                0x0000000000000000        0x0 /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avrtiny/libgcc.a(_copy_data.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avrtiny/libgcc.a(_copy_data.o)
+ .text.libgcc   0x0000000000000000        0x0 /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avrtiny/libgcc.a(_copy_data.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avrtiny/libgcc.a(_copy_data.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avrtiny/libgcc.a(_copy_data.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avrtiny/libgcc.a(_copy_data.o)
+ .text          0x0000000000000000        0x0 /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avrtiny/libgcc.a(_udivmodhi4.o)
+ .data          0x0000000000000000        0x0 /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avrtiny/libgcc.a(_udivmodhi4.o)
+ .bss           0x0000000000000000        0x0 /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avrtiny/libgcc.a(_udivmodhi4.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avrtiny/libgcc.a(_udivmodhi4.o)
+ .stack.descriptors
+                0x0000000000000000       0x1a /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avrtiny/libgcc.a(_udivmodhi4.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avrtiny/libgcc.a(_udivmodhi4.o)
+ .text.libgcc   0x0000000000000000        0x0 /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avrtiny/libgcc.a(_udivmodhi4.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avrtiny/libgcc.a(_udivmodhi4.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avrtiny/libgcc.a(_udivmodhi4.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avrtiny/libgcc.a(_udivmodhi4.o)
+ .text          0x0000000000000000        0x0 /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrtiny/libc.a(rand.o)
+ .bss           0x0000000000000000        0x0 /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrtiny/libc.a(rand.o)
+ .stack.descriptors
+                0x0000000000000000       0x4e /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrtiny/libc.a(rand.o)
+ .text          0x0000000000000000        0x0 /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avrtiny/libgcc.a(_mulsi3.o)
+ .data          0x0000000000000000        0x0 /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avrtiny/libgcc.a(_mulsi3.o)
+ .bss           0x0000000000000000        0x0 /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avrtiny/libgcc.a(_mulsi3.o)
+ .stack.descriptors
+                0x0000000000000000       0x33 /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avrtiny/libgcc.a(_mulsi3.o)
+ .text.libgcc.div
+                0x0000000000000000        0x0 /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avrtiny/libgcc.a(_mulsi3.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avrtiny/libgcc.a(_mulsi3.o)
+ .text.libgcc   0x0000000000000000        0x0 /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avrtiny/libgcc.a(_mulsi3.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avrtiny/libgcc.a(_mulsi3.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avrtiny/libgcc.a(_mulsi3.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avrtiny/libgcc.a(_mulsi3.o)
+ .text          0x0000000000000000        0x0 /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avrtiny/libgcc.a(_divmodsi4.o)
+ .data          0x0000000000000000        0x0 /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avrtiny/libgcc.a(_divmodsi4.o)
+ .bss           0x0000000000000000        0x0 /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avrtiny/libgcc.a(_divmodsi4.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avrtiny/libgcc.a(_divmodsi4.o)
+ .stack.descriptors
+                0x0000000000000000       0x19 /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avrtiny/libgcc.a(_divmodsi4.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avrtiny/libgcc.a(_divmodsi4.o)
+ .text.libgcc   0x0000000000000000        0x0 /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avrtiny/libgcc.a(_divmodsi4.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avrtiny/libgcc.a(_divmodsi4.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avrtiny/libgcc.a(_divmodsi4.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avrtiny/libgcc.a(_divmodsi4.o)
+ .text          0x0000000000000000        0x0 /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avrtiny/libgcc.a(_negsi2.o)
+ .data          0x0000000000000000        0x0 /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avrtiny/libgcc.a(_negsi2.o)
+ .bss           0x0000000000000000        0x0 /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avrtiny/libgcc.a(_negsi2.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avrtiny/libgcc.a(_negsi2.o)
+ .stack.descriptors
+                0x0000000000000000       0x16 /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avrtiny/libgcc.a(_negsi2.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avrtiny/libgcc.a(_negsi2.o)
+ .text.libgcc   0x0000000000000000        0x0 /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avrtiny/libgcc.a(_negsi2.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avrtiny/libgcc.a(_negsi2.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avrtiny/libgcc.a(_negsi2.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avrtiny/libgcc.a(_negsi2.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x0000000000000000 0x0000000000001000 xr
+data             0x0000000000800040 0x0000000000000100 rw !x
+config           0x0000000000820000 0x0000000000000001 rw !x
+lock             0x0000000000830000 0x0000000000000002 rw !x
+signature        0x0000000000840000 0x0000000000000004 rw !x
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+                0x0000000000004000                __RODATA_PM_OFFSET__ = 0x4000
+LOAD /Users/plum/.mchp_packs/Microchip/ATtiny_DFP/3.0.151/xc8/avr/lib/avrtiny/crtattiny40.o
+                0x0000000000000001                __MPLAB_BUILD = 0x1
+LOAD build/default/production/main.o
+START GROUP
+LOAD /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrtiny/libm.a
+END GROUP
+START GROUP
+LOAD /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avrtiny/libgcc.a
+LOAD /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrtiny/libm.a
+LOAD /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrtiny/libc.a
+LOAD /Users/plum/.mchp_packs/Microchip/ATtiny_DFP/3.0.151/xc8/avr/lib/avrtiny/libattiny40.a
+END GROUP
+                0x0000000000000000                __TEXT_REGION_ORIGIN__ = DEFINED (__TEXT_REGION_ORIGIN__)?__TEXT_REGION_ORIGIN__:0x0
+                [0x0000000000800040]                __DATA_REGION_ORIGIN__ = DEFINED (__DATA_REGION_ORIGIN__)?__DATA_REGION_ORIGIN__:0x800040
+                [0x0000000000001000]                __TEXT_REGION_LENGTH__ = DEFINED (__TEXT_REGION_LENGTH__)?__TEXT_REGION_LENGTH__:0x1000
+                [0x0000000000000100]                __DATA_REGION_LENGTH__ = DEFINED (__DATA_REGION_LENGTH__)?__DATA_REGION_LENGTH__:0x100
+                [0x0000000000000001]                __FUSE_REGION_LENGTH__ = DEFINED (__FUSE_REGION_LENGTH__)?__FUSE_REGION_LENGTH__:0x2
+                0x0000000000000002                __LOCK_REGION_LENGTH__ = DEFINED (__LOCK_REGION_LENGTH__)?__LOCK_REGION_LENGTH__:0x2
+                0x0000000000000004                __SIGNATURE_REGION_LENGTH__ = DEFINED (__SIGNATURE_REGION_LENGTH__)?__SIGNATURE_REGION_LENGTH__:0x4
+                0x0000000000004000                __RODATA_PM_OFFSET__ = DEFINED (__RODATA_PM_OFFSET__)?__RODATA_PM_OFFSET__:0x4000
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x0000000000000000       0x78
+ *(.vectors)
+ .vectors       0x0000000000000000       0x24 /Users/plum/.mchp_packs/Microchip/ATtiny_DFP/3.0.151/xc8/avr/lib/avrtiny/crtattiny40.o
+                0x0000000000000000                __vectors
+                0x0000000000000000                __vector_default
+ *(.vectors)
+ *(.progmem.gcc*)
+ *(.dinit)
+ .dinit         0x0000000000000024        0x7 data_init
+                0x000000000000002c                . = ALIGN (0x2)
+ *fill*         0x000000000000002b        0x1 
+                0x000000000000002c                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x000000000000002c        0x0 linker stubs
+ *(.trampolines*)
+                0x000000000000002c                __trampolines_end = .
+ *libprintf_flt.a:*(.progmem.data)
+ *libc.a:*(.progmem.data)
+                0x000000000000002c                . = ALIGN (0x2)
+ *(.jumptables)
+ *(.jumptables*)
+ *(.lowtext)
+ *(.lowtext*)
+                0x000000000000002c                __ctors_start = .
+ *(.ctors)
+                0x000000000000002c                __ctors_end = .
+                0x000000000000002c                __dtors_start = .
+ *(.dtors)
+                0x000000000000002c                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x000000000000002c        0x0 /Users/plum/.mchp_packs/Microchip/ATtiny_DFP/3.0.151/xc8/avr/lib/avrtiny/crtattiny40.o
+                0x000000000000002c                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x000000000000002c        0xc /Users/plum/.mchp_packs/Microchip/ATtiny_DFP/3.0.151/xc8/avr/lib/avrtiny/crtattiny40.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x0000000000000038       0x38 /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avrtiny/libgcc.a(_copy_data.o)
+                0x0000000000000038                __do_copy_data
+                0x0000000000000062                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x0000000000000070        0x4 /Users/plum/.mchp_packs/Microchip/ATtiny_DFP/3.0.151/xc8/avr/lib/avrtiny/crtattiny40.o
+ *(.init9)
+                0x0000000000000074                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x0000000000000074        0x0 /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avrtiny/libgcc.a(_exit.o)
+                0x0000000000000074                exit
+                0x0000000000000074                _exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x0000000000000074        0x4 /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avrtiny/libgcc.a(_exit.o)
+ *(.fini0)
+                0x0000000000000078                _etext = .
+
+.data           0x0000000000800040        0x0 load address 0x0000000000000078
+                [!provide]                        PROVIDE (__data_start, .)
+ *(.gnu.linkonce.d*)
+                0x0000000000800040                . = ALIGN (0x2)
+                0x0000000000800040                _edata = .
+                [!provide]                        PROVIDE (__data_end, .)
+
+.bss            0x0000000000800040        0x0
+                [!provide]                        PROVIDE (__bss_start, .)
+ *(COMMON)
+                [!provide]                        PROVIDE (__bss_end, .)
+                0x0000000000000078                __data_load_start = LOADADDR (.data)
+                0x0000000000000078                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x0000000000800040        0x0
+                [!provide]                        PROVIDE (__noinit_start, .)
+ *(.noinit*)
+                [!provide]                        PROVIDE (__noinit_end, .)
+                0x0000000000800040                _end = .
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.config
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+ *(.config*)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x0000000000000000       0x5b
+ *(.comment)
+ .comment       0x0000000000000000       0x2f build/default/production/main.o
+                                         0x30 (size before relaxing)
+ .comment       0x000000000000002f       0x2c /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrtiny/libc.a(rand.o)
+                                         0x2d (size before relaxing)
+
+.stack.descriptors.hdr
+                0x0000000000000000       0x70
+ .stack.descriptors.hdr
+                0x0000000000000000        0xe /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avrtiny/libgcc.a(_divmodhi4.o)
+ .stack.descriptors.hdr
+                0x000000000000000e        0xe /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avrtiny/libgcc.a(_udivmodsi4.o)
+ .stack.descriptors.hdr
+                0x000000000000001c        0xe /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avrtiny/libgcc.a(_exit.o)
+ .stack.descriptors.hdr
+                0x000000000000002a        0xe /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avrtiny/libgcc.a(_udivmodhi4.o)
+ .stack.descriptors.hdr
+                0x0000000000000038        0xe /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrtiny/libc.a(rand.o)
+ .stack.descriptors.hdr
+                0x0000000000000046        0xe /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avrtiny/libgcc.a(_mulsi3.o)
+ .stack.descriptors.hdr
+                0x0000000000000054        0xe /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avrtiny/libgcc.a(_divmodsi4.o)
+ .stack.descriptors.hdr
+                0x0000000000000062        0xe /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avrtiny/libgcc.a(_negsi2.o)
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x0000000000000000       0x28
+ *(.debug_aranges)
+ .debug_aranges
+                0x0000000000000000       0x28 build/default/production/main.o
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x0000000000000000      0xa62
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x0000000000000000      0x47f /Users/plum/.mchp_packs/Microchip/ATtiny_DFP/3.0.151/xc8/avr/lib/avrtiny/crtattiny40.o
+ .debug_info    0x000000000000047f      0x5e3 build/default/production/main.o
+
+.debug_abbrev   0x0000000000000000      0x57b
+ *(.debug_abbrev)
+ .debug_abbrev  0x0000000000000000      0x43e /Users/plum/.mchp_packs/Microchip/ATtiny_DFP/3.0.151/xc8/avr/lib/avrtiny/crtattiny40.o
+ .debug_abbrev  0x000000000000043e      0x13d build/default/production/main.o
+
+.debug_line     0x0000000000000000      0x311
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x0000000000000000      0x103 /Users/plum/.mchp_packs/Microchip/ATtiny_DFP/3.0.151/xc8/avr/lib/avrtiny/crtattiny40.o
+ .debug_line    0x0000000000000103      0x20e build/default/production/main.o
+
+.debug_frame    0x0000000000000000       0x50
+ *(.debug_frame)
+ .debug_frame   0x0000000000000000       0x50 build/default/production/main.o
+
+.debug_str      0x0000000000000000      0x191
+ *(.debug_str)
+ .debug_str     0x0000000000000000      0x191 /Users/plum/.mchp_packs/Microchip/ATtiny_DFP/3.0.151/xc8/avr/lib/avrtiny/crtattiny40.o
+ .debug_str     0x0000000000000191        0x0 build/default/production/main.o
+
+.debug_loc      0x0000000000000000      0x3e6
+ *(.debug_loc)
+ .debug_loc     0x0000000000000000      0x3e6 build/default/production/main.o
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges   0x0000000000000000       0x18
+ *(.debug_ranges)
+ .debug_ranges  0x0000000000000000       0x18 build/default/production/main.o
+
+.debug_macro
+ *(.debug_macro)
+OUTPUT(dist/default/production/Dice.X.production.elf elf32-avr)
+LOAD linker stubs
+LOAD data_init
+
+.note.gnu.avr.deviceinfo
+                0x0000000000000000       0x3c
+ .note.gnu.avr.deviceinfo
+                0x0000000000000000       0x3c /Users/plum/.mchp_packs/Microchip/ATtiny_DFP/3.0.151/xc8/avr/lib/avrtiny/crtattiny40.o
+
+.text.avrlibc   0x0000000000000078      0x14c
+ .text.avrlibc  0x0000000000000078      0x14c /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrtiny/libc.a(rand.o)
+                0x000000000000019e                rand_r
+                0x00000000000001a2                rand
+                0x00000000000001aa                srand
+
+.text.rollDice  0x00000000000001c4      0x12e
+ .text.rollDice
+                0x00000000000001c4      0x12e build/default/production/main.o
+                0x00000000000001c4                rollDice
+
+.text.main      0x00000000000002f2       0xc0
+ .text.main     0x00000000000002f2       0xc0 build/default/production/main.o
+                0x00000000000002f2                main
+
+.text.libgcc.mul
+                0x00000000000003b2       0x50
+ .text.libgcc.mul
+                0x00000000000003b2       0x50 /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avrtiny/libgcc.a(_mulsi3.o)
+                0x00000000000003b2                __mulsi3
+                0x00000000000003ca                __mulsi3_helper
+
+.text.libgcc.div
+                0x0000000000000402       0x4e
+ .text.libgcc.div
+                0x0000000000000402       0x4e /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avrtiny/libgcc.a(_udivmodsi4.o)
+                0x0000000000000402                __udivmodsi4
+
+.text.libgcc.div
+                0x0000000000000450       0x2c
+ .text.libgcc.div
+                0x0000000000000450       0x2c /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avrtiny/libgcc.a(_udivmodhi4.o)
+                0x0000000000000450                __udivmodhi4
+
+.text.libgcc.div
+                0x000000000000047c       0x28
+ .text.libgcc.div
+                0x000000000000047c       0x28 /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avrtiny/libgcc.a(_divmodsi4.o)
+                0x000000000000047c                __divmodsi4
+
+.text.libgcc.div
+                0x00000000000004a4       0x26
+ .text.libgcc.div
+                0x00000000000004a4       0x26 /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avrtiny/libgcc.a(_divmodhi4.o)
+                0x00000000000004a4                __divmodhi4
+                0x00000000000004a4                _div
+
+.text.libgcc.div
+                0x00000000000004ca       0x10
+ .text.libgcc.div
+                0x00000000000004ca       0x10 /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avrtiny/libgcc.a(_negsi2.o)
+                0x00000000000004ca                __negsi2
+
+.rodata.pattern
+                0x00000000008044da        0x6 load address 0x00000000000004da
+ .rodata.pattern
+                0x00000000008044da        0x6 build/default/production/main.o
+                0x00000000008044da                pattern
+
+.rodata.roll    0x00000000008044e0        0x6 load address 0x00000000000004e0
+ .rodata.roll   0x00000000008044e0        0x6 build/default/production/main.o
+                0x00000000008044e0                roll
+
+.text           0x00000000000004e6        0x2
+ .text          0x00000000000004e6        0x2 /Users/plum/.mchp_packs/Microchip/ATtiny_DFP/3.0.151/xc8/avr/lib/avrtiny/crtattiny40.o
+                0x00000000000004e6                __vector_16
+                0x00000000000004e6                __vector_12
+                0x00000000000004e6                __bad_interrupt
+                0x00000000000004e6                __vector_6
+                0x00000000000004e6                __vector_3
+                0x00000000000004e6                __vector_11
+                0x00000000000004e6                __vector_13
+                0x00000000000004e6                __vector_17
+                0x00000000000004e6                __vector_7
+                0x00000000000004e6                __vector_5
+                0x00000000000004e6                __vector_4
+                0x00000000000004e6                __vector_9
+                0x00000000000004e6                __vector_2
+                0x00000000000004e6                __vector_15
+                0x00000000000004e6                __vector_8
+                0x00000000000004e6                __vector_14
+                0x00000000000004e6                __vector_10
+                0x00000000000004e6                __vector_1
+
+.data           0x0000000000800040        0x4 load address 0x00000000000004e8
+ .data          0x0000000000800040        0x4 /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrtiny/libc.a(rand.o)
